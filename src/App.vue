@@ -124,7 +124,6 @@ span:focus {
   24%,
   55% {
     text-shadow: none;
-    box-shadow: none;
   }
 }
 </style>
